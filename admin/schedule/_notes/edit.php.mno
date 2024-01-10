@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_classes" value="name:id;datatype:int,name:class;datatype:string,name:room;datatype:int,name:section;datatype:string,name:created;datatype:datetime,name:updated;datatype:datetime" />
+	<infoitem key="UD_schedule" value="name:id;datatype:int,name:schedule;datatype:string,name:type;datatype:int,name:class;datatype:int,name:period;datatype:datetime" />
+</info>

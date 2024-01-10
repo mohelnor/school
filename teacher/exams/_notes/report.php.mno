@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_exams" value="name:id;datatype:int,name:exam;datatype:string,name:subject;datatype:int,name:class;datatype:int,name:duration;datatype:int,name:marks;datatype:int,name:teacher;datatype:int,name:created;datatype:datetime" />
+	<infoitem key="UD_classes" value="name:id;datatype:int,name:class;datatype:string,name:room;datatype:int,name:section;datatype:string,name:created;datatype:datetime,name:updated;datatype:datetime" />
+	<infoitem key="UD_subjects" value="name:id;datatype:int,name:subject;datatype:string,name:shortname;datatype:string,name:class;datatype:int" />
+</info>

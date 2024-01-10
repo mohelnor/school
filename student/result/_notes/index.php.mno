@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_results" value="name:id;datatype:int,name:student;datatype:int,name:class;datatype:int,name:exam;datatype:int,name:mark;datatype:int,name:created;datatype:datetime,name:updated;datatype:datetime" />
+</info>

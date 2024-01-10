@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_teachers" value="name:id;datatype:int,name:user;datatype:int,name:subject;datatype:int,name:more;datatype:string" />
+</info>

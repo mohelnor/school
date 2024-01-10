@@ -1,0 +1,33 @@
+/* <link rel = "stylesheet" type = "text/css" media = "print" href = "print.css"> */
+@media print {
+    @page {
+        /* Keyword values for scalable size */
+        size: auto;
+        size: portrait;
+        size: landscape;
+
+        /* <length> values */
+        /* 1 value: height = width */
+        size: 6in;
+
+        /* 2 values: width then height */
+        size: 4in 6in;
+        
+        /* Keyword values for absolute size */
+        size: A4;
+        size: B5;
+        size: JIS-B4;
+        size: letter;
+
+        /* Mixing size and orientation */
+        size: A4 portrait;
+
+        /* Margin & padding */
+        margin: 2cm;
+        padding: 2cm;
+
+    }
+
+    /* Tables will not be broken across pages if possible */
+    table { page-break-inside : avoid }
+}

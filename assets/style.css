@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Cairo;
+    src:
+        url("fonts/Cairo/Cairo-Light.ttf"),
+        url("fonts/Cairo/Cairo-ExtraLight.ttf"),
+        url("fonts/Cairo/Cairo-Black.ttf"),
+        url("fonts/Cairo/Cairo-SemiBold.ttf"),
+        url("fonts/Cairo/Cairo-Bold.ttf");
+}
+
+* {
+    font-family: Cairo;
+}
